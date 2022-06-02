@@ -1,6 +1,10 @@
 # gh-repos
 A small tool to get the names of repos from a Github's user or org.
 
+Pre-requisites:
+
+* You need to config an env called GH_AUTH_TOKEN with your personal access token, to do the requests
+
 Get the name of all public repos from **edivangalindo**
 
 ```bash
